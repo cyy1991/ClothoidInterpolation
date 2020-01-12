@@ -9,7 +9,8 @@ set(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/lib)
 #############################
 #Dependencies
 #############################
-
+#set(PYTHON_INCLUDE_DIR /usr/local/anaconda3/include/python3.7m)
+#set(PYTHON_LIBRARIES /usr/local/anaconda3/lib)
 find_package(Eigen3 REQUIRED)
 find_package(PythonLibs 3.5)
 # find_package(OpenCV REQUIRED)

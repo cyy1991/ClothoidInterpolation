@@ -1,0 +1,3 @@
+/home/ubuntu/ClothoidInterpolation/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/ClothoidInterpolation/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/ClothoidInterpolation/build/CMakeFiles/clothoid_path_planning.dir
